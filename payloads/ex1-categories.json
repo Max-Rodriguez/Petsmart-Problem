@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "onlineFrom": null,
+      "onlineTo": null,
+      "parentId": null
+    },
+    {
+      "id": 2,
+      "onlineFrom": null,
+      "onlineTo": null,
+      "parentId": 1
+    },
+    {
+      "id": 3,
+      "onlineFrom": "1668751160",
+      "onlineTo": "1668751170",
+      "parentId": 1
+    },
+    {
+      "id": 4,
+      "onlineFrom": "1668751165",
+      "onlineTo": "1668751175",
+      "parentId": 3
+    },
+    {
+      "id": 5,
+      "onlineFrom": null,
+      "onlineTo": null,
+      "parentId": 3
+    }
+  ]
+}
